@@ -14,37 +14,49 @@
 		<div class="flex flex-wrap justify-center p-10">
 			<div class="w-1/3 p-2">
 				<div class="h-[14rem] bg-green-400">
-					<img src={musicPlayerImg} class="h-[100%] w-[100%]" alt="music" />
+					<a href="https://github.com/AMO15310/music-player-react-ts">
+						<img src={musicPlayerImg} class="h-[100%] w-[100%]" alt="music" /></a
+					>
 				</div>
 				<p class="title text-center mt-2 text-white">Music Player</p>
 			</div>
 			<div class="w-1/3 p-2">
 				<div class="h-[14rem] bg-green-400">
-					<img src={ecomImg} class="h-[100%] w-[100%]" alt="music" />
+					<a href="https://github.com/AMO15310/e-commerce"
+						><img src={ecomImg} class="h-[100%] w-[100%]" alt="music" /></a
+					>
 				</div>
 				<p class="title text-center mt-2 text-white">E-commerce App</p>
 			</div>
 			<div class="w-1/3 p-2">
 				<div class="h-[14rem] bg-green-400">
-					<img src={waterAppImg} class="h-[100%] w-[100%]" alt="music" />
+					<a href="https://github.com/AMO15310/Benmax-Bucket">
+						<img src={waterAppImg} class="h-[100%] w-[100%]" alt="music" /></a
+					>
 				</div>
-				<p class="title text-center mt-2 text-white">Water Tracker</p>
+				<p class="title text-center mt-2 text-white">Water Tracker v2</p>
 			</div>
 			<div class="w-1/3 p-2">
 				<div class="h-[14rem] bg-green-400">
-					<img src={medinfoImg} class="h-[100%] w-[100%]" alt="music" />
+					<a href="https://github.com/AMO15310/MedInfoPlus"
+						><img src={medinfoImg} class="h-[100%] w-[100%]" alt="music" /></a
+					>
 				</div>
 				<p class="title text-center mt-2 text-white">Health Information Web</p>
 			</div>
 			<div class="w-1/3 p-2">
 				<div class="h-[14rem] bg-green-400">
-					<img src={phonebookImg} class="h-[100%] w-[100%]" alt="music" />
+					<a href="https://github.com/AMO15310/react-phone-book"
+						><img src={phonebookImg} class="h-[100%] w-[100%]" alt="music" /></a
+					>
 				</div>
 				<p class="title text-center mt-2 text-white">Phonebook</p>
 			</div>
 			<div class="w-1/3 p-2">
 				<div class="h-[14rem] bg-green-400">
-					<img src={watertrackerImg} class="h-[100%] w-[100%]" alt="music" />
+					<a href="https://github.com/AMO15310/Water_tracker">
+						<img src={watertrackerImg} class="h-[100%] w-[100%]" alt="music" /></a
+					>
 				</div>
 				<p class="title text-center mt-2 text-white">Water App V1</p>
 			</div>
