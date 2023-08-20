@@ -5,9 +5,10 @@
 	import medinfoImg from '../../assets/medinfoplus.jpg';
 	import phonebookImg from '../../assets/phonebook.png';
 	import watertrackerImg from '../../assets/water-tracker-v2.png';
+	import { slide } from 'svelte/transition';
 </script>
 
-<main>
+<main id="projects" transition:slide>
 	<div class="h-[100vh] w-[100vw] bg-blue-400 flex flex-col">
 		<div class="flex justify-center text-white mt-7 text-xl font-semibold">Some Of My Projects</div>
 		<div class="flex flex-wrap justify-center p-10">

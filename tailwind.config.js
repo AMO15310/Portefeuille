@@ -4,7 +4,8 @@ module.exports = {
 		'./src/**/*.svelte',
 		'./src/*.svelte',
 		'./src/routes/*.svelte',
-		'./src/App.svelte'
+		'./src/App.svelte',
+		'./src/*.ts'
 	],
 	//   darkMode: false, // or 'media' or 'class'
 	theme: {
